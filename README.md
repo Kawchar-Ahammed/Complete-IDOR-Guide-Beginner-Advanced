@@ -1,6 +1,3 @@
-```jsx
-IDOR, IDOR vulnerability, Web Exploitation IDOR, IDOR CTF
-```
 
 <aside>
 📚
